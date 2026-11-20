@@ -1,6 +1,6 @@
-# learning-about-version-control
+# Learning about Version Control
 
-Learning about Version Control
+Author: Nitpreet Bamra
 
 Solving merge conflicts takes conscious effort, but I can do it!
 
